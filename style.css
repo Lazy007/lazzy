@@ -21,6 +21,8 @@ body {
   background-color: rgb(10, 10, 10);
   padding-top: 320px;
   display: grid;
+  padding-left: 2rem;
+  padding-right: 2rem;
   grid-gap: 1880px;
   place-items: center;
 }
