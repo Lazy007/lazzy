@@ -21,13 +21,13 @@ body {
   background-color: rgb(10, 10, 10);
   padding-top: 320px;
   display: grid;
-  padding-left: 2rem;
-  padding-right: 2rem;
   grid-gap: 1880px;
   place-items: center;
 }
 
 h1 {
+  padding-left: 2rem;
+  padding-right: 2rem;
   color: white;
   font-family: "Rubik", sans-serif;
   font-size: clamp(4em, 1vw, 2em);
