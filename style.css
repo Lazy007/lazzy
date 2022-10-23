@@ -20,14 +20,14 @@ html, body{
 body {
   background-color: rgb(10, 10, 10);
   padding-top: 320px;
+  padding-left: 2rem;
+  padding-right: 2rem;
   display: grid;
   grid-gap: 1880px;
   place-items: center;
 }
 
-h1 {
-  padding-left: 2rem;
-  padding-right: 2rem;
+h1{
   color: white;
   font-family: "Rubik", sans-serif;
   font-size: clamp(4em, 1vw, 2em);
